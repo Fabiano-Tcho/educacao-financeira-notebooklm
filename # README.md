@@ -1,0 +1,32 @@
+# Educação Financeira com IA
+
+## 📌 Objetivo
+Criar um caderno temático utilizando o NotebookLM com fontes abertas sobre educação financeira. O projeto utiliza engenharia de prompts, análise de respostas e organização do conhecimento para produzir um miniguia de estudo.
+
+## 📚 Fontes Utilizadas
+- Caderno de Educação Financeira – Banco Central do Brasil
+- Seminário "Como Investir" – Marcia Dessen (ANBIMA)
+- Top Análise de Investimentos – CVM
+
+## 🎯 Objetivos de Estudo
+- Compreender o conceito de educação financeira.
+- Aprender a montar um orçamento pessoal.
+- Diferenciar renda fixa e renda variável.
+- Entender risco, liquidez e rentabilidade.
+- Conhecer produtos básicos como Tesouro Direto.
+
+## ❓ Perguntas Estratégicas
+- Qual a diferença entre poupança e investimento?
+- Como a inflação impacta o poder de compra?
+- O que é risco de crédito?
+- Quando faz sentido investir em renda fixa?
+- Como o perfil do investidor influencia a escolha de ativos?
+
+## 🧪 Metodologia
+Utilização do NotebookLM para análise de fontes, criação de prompts estratégicos e geração de respostas com base nos documentos selecionados.
+
+## 📖 Resultados
+O projeto resultou na criação de um miniguia de educação financeira com resumos estruturados e glossário de conceitos.
+
+## 🧠 Reflexão
+A atividade demonstrou como a IA pode auxiliar na organização do conhecimento e no desenvolvimento de pensamento crítico durante o processo de aprendizagem.
