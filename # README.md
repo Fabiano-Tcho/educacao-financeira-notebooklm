@@ -1,5 +1,17 @@
 # Educação Financeira com IA
 
+Projeto desenvolvido utilizando o NotebookLM para organização de conhecimento e análise de materiais de educação financeira.
+
+## 📑 Sumário
+- Objetivo
+- Fontes Utilizadas
+- Objetivos de Estudo
+- Perguntas Estratégicas
+- Metodologia
+- Resultados
+- Reflexão
+- Autor
+
 ## 📌 Objetivo
 Criar um caderno temático utilizando o NotebookLM com fontes abertas sobre educação financeira. O projeto utiliza engenharia de prompts, análise de respostas e organização do conhecimento para produzir um miniguia de estudo.
 
@@ -30,3 +42,8 @@ O projeto resultou na criação de um miniguia de educação financeira com resu
 
 ## 🧠 Reflexão
 A atividade demonstrou como a IA pode auxiliar na organização do conhecimento e no desenvolvimento de pensamento crítico durante o processo de aprendizagem.
+
+## 👤 Autor
+
+Fabiano Cioccari  
+Projeto desenvolvido para o desafio do curso de Cibersegurança – Riachuelo.
